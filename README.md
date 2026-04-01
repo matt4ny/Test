@@ -9,4 +9,4 @@
 
 **And finally I really want to learn Linux**
 
-![My inserted photo](image-2.png)
+![](image-2.png)

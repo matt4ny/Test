@@ -8,5 +8,7 @@
 4. I _do not_ like winter
 
 **And finally I really want to learn Linux**
-![alt text](image.png)
+
+
+![alt text](image-1.png)
 

@@ -9,6 +9,4 @@
 
 **And finally I really want to learn Linux**
 
-
-![alt text](image-1.png)
-
+![alt text](image-2.png)

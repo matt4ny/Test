@@ -9,4 +9,4 @@
 
 **And finally I really want to learn Linux**
 
-![alt text](image-2.png)
+![My inserted photo](image-2.png)
